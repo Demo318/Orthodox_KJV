@@ -35,7 +35,9 @@ github_username:  jekyll
 plugins:
   - jekyll-feed
 
-# include:
+include:
+ - Bible
+ - Orthodox_KJV.pdf
 # - _bible
 #- .htaccess
 

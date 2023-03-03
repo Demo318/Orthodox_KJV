@@ -9,7 +9,7 @@ book_short_name: Genesis
 book_link_name: Genesis
 layout: chapter
 ---
- <sup>27</sup>CHAPTER <sup>28</sup>
+
 And Isaac called Jacob, and blessed him, and charged him, saying, 'Thou shalt
 not take a wife of the daughters of the Canaanites. <sup>2</sup>Arise, and depart quickly into
 Mesopotamia to the house of Bethuel thy mother's father, and take thee a wife from

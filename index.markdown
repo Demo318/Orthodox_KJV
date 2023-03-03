@@ -7,7 +7,7 @@ layout: home
 
 # The Orthodox KJV
 
-[Original PDF](/Orthodox_KJV.pdf)
+[Original PDF]({{ site.base url }}Orthodox_KJV.pdf)
 
 ## Old Testament
 - [Genesis]({{ site.baseurl }}Bible/Old_testament/Genesis/00_intro)
