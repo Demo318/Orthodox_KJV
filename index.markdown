@@ -10,4 +10,4 @@ layout: home
 [Original PDF]({{ site.base url }}Orthodox_KJV.pdf)
 
 ## Old Testament
-- [Genesis]({{ site.baseurl }}Bible/Old_testament/Genesis/00_intro)
+- [Genesis]({{ site.baseurl }}Bible/Old_Testament/Genesis/00_intro)
