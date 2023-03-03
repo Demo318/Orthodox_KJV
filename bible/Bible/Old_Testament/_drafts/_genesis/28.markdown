@@ -1,0 +1,50 @@
+---
+testament: Old Testament
+testament_link: Old_Testament
+chapter_number: 28
+chapter_order_number: 28
+chapter_word: 
+total_chapters: 50
+book_short_name: Genesis
+book_link_name: Genesis
+layout: chapter
+---
+ <sup>27</sup>CHAPTER <sup>28</sup>
+And Isaac called Jacob, and blessed him, and charged him, saying, 'Thou shalt
+not take a wife of the daughters of the Canaanites. <sup>2</sup>Arise, and depart quickly into
+Mesopotamia to the house of Bethuel thy mother's father, and take thee a wife from
+thence of the daughters of Laban thy mother's brother. <sup>3</sup>And my God bless thee, and
+increase thee, and multiply thee, and thou shalt become a gathering of nations; <sup>4</sup>and
+give thee the blessing of Abraham my father to thee, and to thy seed after thee, to
+inherit the land of thy sojourning, which God gave unto Abraham.'  <sup>5</sup>And Isaac sent
+away Jacob; and he went into Mesopotamia unto Laban, son of Bethuel the Syrian, the
+brother of Rebekah, Jacob's and Esau's mother.
+<sup>6</sup>And  Esau  saw  that  Isaac  had  blessed  Jacob,  and  that  he  went  away  to
+Mesopotamia, to take him a wife from thence; and that as he blessed him he gave him a
+charge, saying, 'Thou shalt not take a wife of the daughters of Canaan'; <sup>7</sup>and that Jacob
+hearkened unto his father and his mother, and was gone to Mesopotamia of Syria.
+<sup>8</sup>And Esau saw that the daughters of Canaan were evil in the sight of Isaac his father,
+<sup>9</sup>and Esau went unto Ishmael, and took to wife Mahaleth the daughter of Ismael,
+Abraham's son, the sister of Nebajoth, further to his other wives. 
+<sup>10</sup>And Jacob went out from the Well of the Oath, and went into Haran. <sup>11</sup>And he
+lighted upon a certain place, and lay down there, because the sun was set. And he took
+one of the stones of the place, and put it at his head, and lay down in that place to
+sleep. <sup>12</sup>And he dreamed, and behold, a ladder set up on the earth, whose top reached
+to Heaven; and the angels of God ascended and descended on it. <sup>13</sup>And the LORD was
+established upon it, and said, 'I am the God of thy father Abraham, and the God of
+Isaac. Fear not; the land whereon thou liest, to thee will I give it and to thy seed. <sup>14</sup>And
+thy seed shall be as the sand of the earth, and it shall spread abroad to the sea, and to
+the south, and to the north, and to the east; and in thee and in thy seed shall all the
+tribes of the earth be blessed. <sup>15</sup>And behold, I am with thee, keeping thee in every way
+whither thou shalt go, and will bring thee again into this land; for I will not leave thee,
+until I have done all that which I have spoken to thee of.' <sup>16</sup>And Jacob awaked out of
+his sleep, and he said, 'The LORD is in this place, and I knew it not'. <sup>17</sup>And he was
+afraid, and said, 'How dreadful is this place! this is none other than the house of God,
+and this is the gate of Heaven'. <sup>18</sup>And Jacob rose up early in the morning, and took the
+stone that he had put under his head, and set it up for a pillar, and poured oil upon the
+top of it. <sup>19</sup>And he called the name of that place the House of God; and the name of the
+city was called Luz before. <sup>20</sup>And Jacob vowed a vow, saying, “If the LORD God be with
+me, and will keep me in this journey that I go, and will give me bread to eat and raiment
+to put on, <sup>21</sup>and bring me back to my father's house in safety, then shall the LORD be
+my God. <sup>22</sup>And this stone, which I have set up for a pillar, shall be a house of God to
+me; and of all that thou shalt give me I will tithe a tenth unto Thee.'

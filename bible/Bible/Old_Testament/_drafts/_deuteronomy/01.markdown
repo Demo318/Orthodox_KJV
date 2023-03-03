@@ -1,0 +1,10 @@
+---
+testament: Old Testament
+testament_link: Old_Testament
+chapter_number: 1
+chapter_order_number: 01
+total_chapters: 24
+book_short_name: Deuteronomy
+book_link_name: Deuteronomy
+layout: chapter
+---

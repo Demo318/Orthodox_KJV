@@ -1,0 +1,20 @@
+---
+layout: base
+---
+
+<h1>{{ page.book_short_name }}</h1>
+
+{{ content }}
+
+<ul>
+  {% for ch in (1..page.total_chapters) %}
+  {%- if ch < 10 -%}
+    {%- assign ch_pre = "0" + ch -%}
+  {%- else -%}
+    {%- assign ch_pre = "" -%}
+  {%- endif -%}
+    <li>
+      <a href="/Bible/{{ page.testament_link }}/{{ page.book_short_name }}/{{ ch | prepend: ch_pre }}">{{ ch }}</a>
+    </li>
+  {% endfor %}
+</ul>

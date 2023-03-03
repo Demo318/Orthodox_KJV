@@ -1,0 +1,49 @@
+---
+testament: Old Testament
+testament_link: Old_Testament
+chapter_number: 40
+chapter_order_number: 40
+chapter_word: 
+total_chapters: 50
+book_short_name: Genesis
+book_link_name: Genesis
+layout: chapter
+---
+
+CHAPTER <sup>40</sup>
+And it came to pass after these things that the chief cupbearer of the king of
+Egypt and his baker had transgressed against their lord, the king of Egypt. <sup>2</sup>And
+Pharaoh was wroth with his two eunuchs, with the chief cupbearer and with the chief
+baker. <sup>3</sup>And he put them in ward into the prison, into the place whereinto Joseph had
+been led. <sup>4</sup>And the chief keeper of the prison committed them to Joseph, and he stood
+by them, and they were some days in the prison. <sup>5</sup>And they saw a dream both of them
+in one night, and the vision of the dream of the chief cupbearer and the chief baker,
+which were of the king of Egypt, which were in the prison, was this. <sup>6</sup>And Joseph came
+in unto them in the morning, and saw them, and they were troubled. <sup>7</sup>And he asked
+Pharaoh's eunuchs that were with him in the ward of his master's house, saying,
+'Wherefore is it that your faces are sad today?' <sup>8</sup>And they said unto him, 'We have seen
+a dream, and there is no interpreter of it'. And Joseph said unto them, 'Is not the
+interpretation of them through God? then tell me them'. <sup>9</sup>And the chief cupbearer told
+his dream to Joseph, and said, 'In my sleep a vine was before me. <sup>10</sup>And in the vine
+were three stems, and it budded and shot forth blossoms; the grapes of a cluster of
+grapes were ripe. <sup>11</sup>And Pharaoh's cup was in my hand, and I took the bunch of grapes
+and pressed it into the cup, and I gave the cup into Pharaoh's hand.' <sup>12</sup>And Joseph said
+unto him, 'This is the interpretation of it; the three branches are three days; <sup>13</sup>yet three
+days, and Pharaoh shall remember thine office and shall restore thee unto thy place of
+chief cupbearer, and thou shalt give Pharaoh's cup into his hand, according to thy
+former high place when thou wast cupbearer. <sup>14</sup>But remember thou me of thyself when
+it shall be well with thee; and thou shalt deal mercifully with me, and make mention of
+me unto Pharaoh, and bring me out of this dungeon. <sup>15</sup>For surely I was stolen away out
+of the land of the Hebrews; here also have I done nothing, but they have cast me into
+this pit.'  <sup>16</sup>And the chief baker saw that he interpreted rightly, and he said unto
+Joseph, 'I also saw a dream, and methought I took up three baskets of meal loaves on
+my head. <sup>17</sup>And in the uppermost basket there was of all manner of the baker's work
+which Pharaoh eateth, and the birds of heaven did eat them out of the basket that was
+upon my head.' <sup>18</sup>And Joseph answered and said unto him, 'This is the interpretation
+thereof; The three baskets are three days; <sup>19</sup>yet three days, and Pharaoh shall take away
+thy head from off thee, and shall hang thee on a tree, and the birds of the air shall eat
+thy flesh from off thee.'  <sup>20</sup>And it came to pass the third day, that it was Pharaoh's
+birthday, and he made a feast unto all his servants; and he remembered the office of<sup>41</sup>the chief cupbearer and the office of the chief baker among his servants. <sup>21</sup>And he
+restored the chief cupbearer unto his office, and he gave the cup into Pharaoh's hand.
+<sup>22</sup>And he hanged the chief baker, as Joseph had interpreted to them. <sup>23</sup>Yet did not the
+chief butler remember Joseph, but forgat him.

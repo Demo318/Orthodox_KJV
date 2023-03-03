@@ -1,0 +1,17 @@
+---
+testament: Old Testament
+testament_link: Old_Testament
+chapter_number: 16
+chapter_order_number: 16
+chapter_word: 
+total_chapters: 50
+book_short_name: Genesis
+book_link_name: Genesis
+layout: chapter
+---
+
+<sup>1</sup>Now Sarai, Abram's wife, bare him no children; and she had an Egyptian handmaid, whose name was Hagar. <sup>2</sup>And Sarai said unto Abram, 'Behold, the LORD hath restrained me from bearing. Go in therefore unto my maid, that I may get me children by her.' And Abram hearkened to the voice of Sarai. <sup>3</sup>And Sarai, Abram's wife, took Hagar the Egyptian her maid, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram as a wife to him. <sup>4</sup>And he went in unto Hagar, and she conceived. And she saw that she was with child, and her mistress was dishonoured in her eyes. <sup>5</sup>And Sarai said unto Abram, “I am wronged because of thee. I have given my maid into thy bosom, and when she saw that she was with child, I was dishonoured in her eyes; the LORD judge between me and thee.' <sup>6</sup>But Abram said unto Sarai, 'Behold, thy maid is in thy hands; do to her as it may seem good to thee'. And Sarai afflicted her, and she fled from her face. 
+
+<sup>7</sup>And an angel of the LORD found her by the fountain of water in the wilderness, by the fountain in the way to Shur. <sup>8</sup>And the angel of the LORD said unto her, 'Hagar, Sarai's maid, whence comest thou, and whither goest thou?' And she said, 'I flee from the face of my mistress Sarai'. <sup>9</sup>And the angel of the LORD said unto her, 'Return to thy mistress, and submit thyself under her hands'. <sup>10</sup>And the angel of the LORD said unto her, 'I will surely multiply thy seed, and it shall not be numbered for multitude'. <sup>11</sup>And the angel of the LORD said unto her, 'Behold, thou art with child, and shalt bear a son, and shalt call his name Ishmael, because the LORD hath heard thy humiliation. <sup>12</sup>He will be a wild man; his hands will be against all, and the hands of all against him, and he shall dwell over against all his brethren.' <sup>13</sup>And Hagar called the name of the LORD that spake unto her, 'Thou art God which seest me'; for she said, 'I have openly seen Him that appeared unto me'. <sup>14</sup>Wherefore called she the well, The Well of him whom I have openly Seen. Behold, it is between Kadesh and Bered. 
+
+<sup>15</sup>And Hagar bare Abram a son, and Abram called his son's name which Hagar bare him, Ishmael. <sup>16</sup>And Abram was fourscore and six years old when Hagar bare Ishmael to Abram.

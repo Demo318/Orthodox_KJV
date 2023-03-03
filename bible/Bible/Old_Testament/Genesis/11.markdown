@@ -1,0 +1,33 @@
+---
+testament: Old Testament
+testament_link: Old_Testament
+chapter_number: 11
+chapter_order_number: 11
+chapter_word: 
+total_chapters: 50
+book_short_name: Genesis
+book_link_name: Genesis
+layout: chapter
+---
+
+<sup>1</sup>And the whole earth was of one lip, and there was one speech to all. <sup>2</sup>And it came to pass, as they journeyed from the east, that they found a plain in the land of Sennaar, and they dwelt there. <sup>3</sup>And they said one to another, 'Come, let us make bricks and bake them with fire'. And the brick was unto them for stone, and bitumen was their mortar. <sup>4</sup>And they said, 'Come, let us build us a city and a tower, whose top shall be unto heaven, and let us make us a name before we be scattered abroad upon the face of the whole earth'. <sup>5</sup>And the LORD came down to see the city and the tower, which the children of men builded. <sup>6</sup>And the LORD said, 'Behold, one race and one lip, of all, and this they have begun to do; and now nothing shall fail of them, of all that they endeavour to do. <sup>7</sup>Come, and let Us go down and there confound their language, that they may not understand each his neighbour's speech.' <sup>8</sup>And the LORD scattered them abroad from thence upon the face of all the earth; and they left off to build the city and the tower. <sup>9</sup>Therefore was the name of it called Confusion, because the LORD did there confound the lips of all the earth; and from thence did the LORD scatter them abroad upon the face of all the earth. <sup>10</sup>And these are the generations of Shem; Shem was an hundred years old when he begat Arphaxad the second year after the flood. <sup>11</sup>And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters, and he died.
+
+<sup>12</sup>And Arphaxad lived an hundred five and thirty years, and begat Cainan. <sup>13</sup>And Arphaxad lived after he begat Cainan four hundred years, and begat sons and daughters; and he died.
+
+And Cainan lived an hundred and thirty years, and begat Salah. And Cainan lived after he begat Salah three hundred and thirty years, and begat sons and daughters; and he died.
+
+<sup>14</sup>And Salah lived an hundred and thirty years, and begat Eber. <sup>15</sup>And Salah lived after he begat Eber three hundred and thirty years, and begat sons and daughters; and he died. 
+
+<sup>16</sup>And Eber lived an hundred thirty and four years, and begat Peleg. <sup>17</sup>And Eber lived after he begat Peleg two hundred threescore and ten years, and begat sons and daughters; and he died. 
+
+<sup>18</sup>And Peleg lived an hundred and thirty years, and begat Reu. <sup>19</sup>And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters; and he died. 
+
+<sup>20</sup>And Reu lived an hundred thirty and two years, and begat Serug. <sup>21</sup>And Ragau lived after he begat Serug two hundred and seven years, and begat sons and daughters; and he died. <sup>22</sup>And Serug lived an hundred and thirty years, and begat Nahor. 
+
+<sup>23</sup>And Serug lived after he begat Nahor two hundred years, and begat sons and daughters; and he died. 
+
+<sup>24</sup>And Nahor lived an hundred nine and seventy years, and begat Terah. <sup>25</sup>And Nahor lived after he begat Terah an hundred twenty and five years, and begat sons and daughters; and he died. 
+
+<sup>26</sup>And Terah lived seventy years, and begat Abram, and Nahor, and Haran. 
+
+<sup>27</sup>And these are the generations of Terah; Terah begat Abram, and Nahor, and Haran; and Haran begat Lot. <sup>28</sup>And Haran died before his father Terah in the land of his nativity, in the country of the Chaldees. <sup>29</sup>And Abram and Nahor took them wives; the name of the Abram's wife was Sarai, and the name of Nahor's wife, Milcah, the daughter of Haran; and he was the father of Milcah, and the father of Iscah. <sup>30</sup>And Sarai was barren, and bare not children. <sup>31</sup>And Terah took Abram his son, and Lot the son of Haran, and Sarai his daughter­in­law, his son Abram's wife, and led them forth out of the land of the Chaldees, to go into the land of Canaan. And they came unto Haran, and he dwelt there. <sup>32</sup>And all the days of Terah in the land of Haran were two hundred and five years; and Terah died in Haran.

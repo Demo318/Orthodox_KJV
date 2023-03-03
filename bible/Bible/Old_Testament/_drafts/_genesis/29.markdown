@@ -1,0 +1,67 @@
+---
+testament: Old Testament
+testament_link: Old_Testament
+chapter_number: 29
+chapter_order_number: 29
+chapter_word: 
+total_chapters: 50
+book_short_name: Genesis
+book_link_name: Genesis
+layout: chapter
+---
+
+CHAPTER <sup>29</sup>
+And Jacob lifted up his feet, and went into the land of the east unto Laban the
+son of Bethuel the Syrian, and the brother of Rebekah, Jacob's and Esau's mother.
+<sup>2</sup>And he looketh, and behold, a well in the plain, and there were there three flocks of
+sheep resting by it; for out of that well they watered the flocks; but a great stone was at
+the well's mouth. <sup>3</sup>And thither were all the flocks gathered; and they would roll away
+the stone from the well's mouth, and water the flocks, and put the stone again upon the
+well's mouth in its place. <sup>4</sup>And Jacob said unto them, 'Brethren, whence be ye?' And<sup>28</sup>they said, 'Of Haran are we'. <sup>5</sup>And he said unto them, 'Know ye Laban the son of
+Nahor?' And they said, 'We know him'. <sup>6</sup>And he said unto them, 'Is he well?' And they
+said, 'He is well'. And behold, Rachel, his daughter, was coming with the sheep. <sup>7</sup>And
+Jacob said, 'It is yet high day; it is not yet time that the flocks be gathered together.
+Water ye the flocks, and go and feed them.'  <sup>8</sup>And they said, 'We cannot, until all the
+shepherds be gathered together, and they roll away the stone from the mouth of the
+well; then shall we water the flocks'. <sup>9</sup>And while he yet spake with them, Rachel the
+daughter of Laban came with her father's sheep; for she fed her father's sheep. <sup>10</sup>And it
+came to pass, when Jacob saw Rachel the daughter of Laban his mother's brother, and
+the sheep of Laban his mother's brother, that Jacob came and rolled away the stone
+from the well's mouth, and watered the sheep of Laban his mother's brother. <sup>11</sup>And
+Jacob kissed Rachel, and cried with a loud voice, and wept. <sup>12</sup>And he told Rachel that
+he was her father's kinsman and Rebekah's son; and she ran and told her father
+according to these words. <sup>13</sup>And it came to pass, when Laban heard the name of Jacob
+his sister's son, that he ran to meet him, and embraced him, and kissed him, and
+brought him into his house; and he told Laban all these things. <sup>14</sup>And Laban said to
+him, 'Thou art of my bones and of my flesh'. And he was with him a month of days.
+<sup>15</sup>And Laban said unto Jacob, 'Because thou art my kinsman, surely thou shalt
+not serve me for naught. Tell me, what shall thy wage be?'  <sup>16</sup>Now Laban had two
+daughters; the name of the elder was Leah, and the name of the younger was Rachel.
+<sup>17</sup>And Leah's eyes were weak, but Rachel was beautiful in appearance, and exceeding
+fair in countenance. <sup>18</sup>And Jacob loved Rachel, and said, 'I will serve thee seven years
+for Rachel thy younger daughter'. <sup>19</sup>And Laban said, 'It is better that I give her to thee,
+than that I should give her to another man; abide with me'. <sup>20</sup>And Jacob served seven
+years for Rachel, and they were in his sight but as a few days, for he loved her. <sup>21</sup>And
+Jacob said unto Laban, 'Give me my wife, for my days are fulfilled, that I may go in unto
+her'. <sup>22</sup>And Laban gathered together all the men of the place, and made a marriage
+feast. <sup>23</sup>And it was even, and Laban took Leah his daughter, and brought her in to
+Jacob, and he went in unto her. <sup>24</sup>And Laban gave unto his daughter Leah Zilpah his
+maid for a handmaid unto her. <sup>25</sup>And it was morning; and behold, it was Leah. And
+Jacob said to Laban, 'What is this that thou hast done unto me? Did I not serve with
+thee for Rachel? And wherefore hast thou beguiled me?' <sup>26</sup>And Laban answered, 'It not
+so done in our place, to give the younger before the elder. <sup>27</sup>Fulfil then her seven days,
+and I will give thee her also for thy service which thou shalt do with me yet seven other
+years.' <sup>28</sup>And Jacob did so, and fulfilled her seven days; and Laban gave him Rachel his
+daughter to wife. <sup>29</sup>And Laban gave to his daughter Bilhah his handmaid to be a
+handmaid unto her. <sup>30</sup>And he went in unto Rachel, and he loved Rachel more than
+Leah, and served with him yet seven other years. 
+<sup>31</sup>And when the LORD God saw that Leah was hated, He opened her womb; but
+Rachel was barren. <sup>32</sup>And Leah conceived and bare a son to Jacob, and she called his
+name Reuben, saying, 'Because the LORD hath looked upon my humiliation, and hath
+given me a son, now therefore my husband will love me'. <sup>33</sup>And she conceived again,
+and bare a second son to Jacob, and said, 'Because the LORD hath heard that I am
+hated, He hath given me this son also'. And she called his name Simeon. <sup>34</sup>And she
+conceived again and bare a son, and said, 'In the present time my husband will be with
+me, for I have borne him three sons'. Therefore she called his name Levi. <sup>35</sup>And she
+conceived yet again, and bare a son, and she said, 'Now yet again this time will I give
+thanks unto the LORD'. Therefore she called his name Judah. And she left bearing.

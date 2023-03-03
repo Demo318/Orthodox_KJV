@@ -1,0 +1,11 @@
+---
+testament: Old Testament
+testament_link: Old_Testament
+chapter_number: 4
+chapter_order_number: 04
+chapter_word: 
+total_chapters: 40
+book_short_name: Exodus
+book_link_name: Exodus
+layout: chapter
+---

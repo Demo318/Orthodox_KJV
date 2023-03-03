@@ -1,0 +1,10 @@
+---
+testament: Old Testament
+testament_link: Old_Testament
+chapter_number: 35
+chapter_order_number: 35
+total_chapters: 36
+book_short_name: Numbers
+book_link_name: Numbers
+layout: chapter
+---
