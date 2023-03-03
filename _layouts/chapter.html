@@ -15,7 +15,7 @@ layout: base
   {%- else -%}
   {%- assign ch_pre = "" -%}
   {%- endif -%}
-  <a href="/Bible/{{ page.testament_link }}/{{ page.book_short_name }}/{{ ch| prepend: ch_pre }}">Next Chapter</a>
+  <a href="{{ site.url }}Bible/{{ page.testament_link }}/{{ page.book_short_name }}/{{ ch| prepend: ch_pre }}">Next Chapter</a>
 {%- endif -%}
 
 <br />
@@ -27,5 +27,5 @@ layout: base
   {%- else -%}
   {%- assign ch_pre = "" -%}
   {%- endif -%}
-  <a href="/Bible/{{ page.testament_link }}/{{ page.book_short_name }}/{{ ch| prepend: ch_pre }}">Previous Chapter</a>
+  <a href="{{ site.url }}Bible/{{ page.testament_link }}/{{ page.book_short_name }}/{{ ch| prepend: ch_pre }}">Previous Chapter</a>
 {%- endif -%}
