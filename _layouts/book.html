@@ -14,7 +14,7 @@ layout: base
     {%- assign ch_pre = "" -%}
   {%- endif -%}
     <li>
-      <a href="{{ site.url }}Bible/{{ page.testament_link }}/{{ page.book_short_name }}/{{ ch | prepend: ch_pre }}">{{ ch }}</a>
+      <a href="{{ site.baseurl }}Bible/{{ page.testament_link }}/{{ page.book_short_name }}/{{ ch | prepend: ch_pre }}">{{ ch }}</a>
     </li>
   {% endfor %}
 </ul>
