@@ -9,3 +9,26 @@ book_short_name: Exodus
 book_link_name: Exodus
 layout: chapter
 ---
+
+CHAPTER <sup>11</sup>
+And  the  LORD  said  unto  Moses,  'Yet  will  I  bring  one  plague  more upon
+Pharaoh, and upon Egypt, and afterwards he will send you away hence. And when he
+shall send you away with every thing, he shall surely thrust you out. <sup>2</sup>Speak therefore
+privily in the ears of the people, and let every man ask of his neighbour things of silver
+and gold and raiment.'  <sup>3</sup>And the LORD gave his people favour in the sight of the<sup>63</sup>Egyptians, and they gave unto them. And the man Moses was very great in the sight of
+the Egyptians, and in the sight of Pharaoh, and in the sight of his servants. 
+<sup>4</sup>And Moses said, 'Thus saith the LORD; “About midnight will I go out into the
+midst of Egypt. <sup>5</sup>And all the firstborn in the land of Egypt shall die, from the firstborn
+of Egypt that sitteth upon his throne, even unto the firstborn of the maidservant that is
+beside the mill, and unto the firstborn of all cattle. <sup>6</sup>And there shall be a great cry
+throughout all the land of Egypt, such as hath not been before, nor shall be again any
+more.”  <sup>7</sup>But among all the children of Israel shall not a dog growl with his tongue,
+against man or beast; that ye may know by what the LORD shall put a difference
+gloriously between the Egyptians and Israel. <sup>8</sup>And all these thy servants shall come
+down unto me and bow down themselves unto me, saying, “Get thee out, and all the
+people that follow thee”; and after that I will go out.'   And Moses went out from
+Pharaoh in anger. <sup>9</sup>And the LORD said unto Moses, 'Pharaoh shall not hearken unto
+you, that I may greatly multiply My signs and wonders in the land of Egypt'. <sup>10</sup>And
+Moses and Aaron did all these signs and wonders in the land of Egypt before Pharaoh;
+and the LORD hardened Pharaoh's heart, and he hearkened not to let the children of
+Israel go out of the land of Egypt.

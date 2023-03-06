@@ -8,3 +8,4 @@ book_short_name: Leviticus
 book_link_name: Leviticus
 layout: chapter
 ---
+*This chapter is missing from Michael Asser's translation.*
